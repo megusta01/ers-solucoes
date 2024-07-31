@@ -30,11 +30,11 @@ Este projeto utiliza uma combinação de tecnologias modernas para proporcionar 
 
 - **Artur Michael**
   - Função: Desenvolvedor Frontend
-  - Contato: [Email](mailto:arturmichael@gmail.com) | [GitHub](https://github.com/ArturMichael)
+  - Contato: [Email](mailto:arturalvesmorais8@gmail.com) | [GitHub](https://github.com/ArturMichael)
 
 - **Gustavo Figueredo**
   - Função: Desenvolvedor Full Stack
-  - Contato: [Email](mailto:gustavoFigueredo86@gmail.com) | [GitHub](https://github.com/megusta01)
+  - Contato: [Email](mailto:gustavofigueredo86@gmail.com) | [GitHub](https://github.com/megusta01)
 
 - **Késia Pereira**
   - Função: UI/UX Designer
@@ -44,4 +44,4 @@ Este projeto utiliza uma combinação de tecnologias modernas para proporcionar 
   - Função: Desenvolvedor Backend
   - Contato: [Email](mailto:pedrohrd87@gmail.com) | [GitHub](https://github.com/devpedrohrd)
 
-
+**[FIGMA](https://www.figma.com/design/T0lppLmYVPac1fY7wqiA73/Untitled?node-id=0-1&t=Y0Ox3W02kUNVTBpd-1)**
