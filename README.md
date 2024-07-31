@@ -37,11 +37,12 @@ Este projeto utiliza uma combinação de tecnologias modernas para proporcionar 
   - Contato: [Email](mailto:gustavofigueredo86@gmail.com) | [GitHub](https://github.com/megusta01)
 
 - **Késia Pereira**
-  - Função: UI/UX Designer
+  - Função: UI/UX Designer/ Dev. Frontend
   - Contato: [Email](mailto:kesiapereira2003@gmail.com) | [GitHub](https://github.com/KesiaPereira)
 
 - **Pedro Henrique**
   - Função: Desenvolvedor Backend
   - Contato: [Email](mailto:pedrohrd87@gmail.com) | [GitHub](https://github.com/devpedrohrd)
 
-**[FIGMA](https://www.figma.com/design/T0lppLmYVPac1fY7wqiA73/Untitled?node-id=0-1&t=Y0Ox3W02kUNVTBpd-1)**
+## Protótipo do projeto:
+- **[FIGMA](https://www.figma.com/design/T0lppLmYVPac1fY7wqiA73/Untitled?node-id=0-1&t=Y0Ox3W02kUNVTBpd-1)**
