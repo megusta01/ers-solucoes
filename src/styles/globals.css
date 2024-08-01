@@ -2,32 +2,67 @@
 @tailwind components;
 @tailwind utilities;
 
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+
+
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.experiencias{
+    background-color: #f2f2f2;
+    padding: 50px 0;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.experiencias .container .content h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+    font-size: 2.0rem;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.experiencias .container .content span{
+    color: #D9B444;
+    margin: 0 7px;
+}
+
+.experiencias .container .content p{
+    text-align: center;
+    font-size: 1.0rem;
+    margin-top: 10px;
+}
+
+.experiencias .container .content ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    list-style: none;
+}
+
+.experiencias .container .content ul li{
+    height: 300px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+}
+
+.experiencias .container .content ul li h2{
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+.icon-bg{
+    display: flex;
+    background-color: #D9B444;
+    padding: 10px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.icon-bg img{
+    width: 100px;
+    height: 100px;
 }
